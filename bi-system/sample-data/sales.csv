@@ -1,0 +1,31 @@
+Date,Product,Category,Region,Sales,Quantity,Revenue,Profit
+2024-01-15,Laptop,Electronics,North,5,15,14999.95,4500.00
+2024-01-16,Mouse,Electronics,South,25,150,3749.75,1200.00
+2024-01-17,Desk Chair,Furniture,East,8,20,7999.60,2400.00
+2024-01-18,Monitor,Electronics,West,12,30,8999.64,2700.00
+2024-01-19,Keyboard,Electronics,North,18,90,1619.82,550.00
+2024-01-20,Office Desk,Furniture,South,6,12,8999.94,3200.00
+2024-01-21,Webcam,Electronics,East,15,45,6749.85,2100.00
+2024-01-22,Headphones,Electronics,West,30,120,8999.70,3600.00
+2024-01-23,Standing Desk,Furniture,North,4,8,7999.96,2800.00
+2024-01-24,USB Cable,Electronics,South,50,300,2499.50,900.00
+2024-01-25,Laptop,Electronics,East,7,21,20999.93,6300.00
+2024-01-26,Mouse,Electronics,West,22,132,3268.68,1100.00
+2024-01-27,Desk Chair,Furniture,North,10,25,9999.50,3000.00
+2024-01-28,Monitor,Electronics,South,15,45,13499.55,4050.00
+2024-01-29,Keyboard,Electronics,East,20,100,1799.80,600.00
+2024-01-30,Office Desk,Furniture,West,5,10,7499.95,2700.00
+2024-02-01,Webcam,Electronics,North,12,36,5399.88,1700.00
+2024-02-02,Headphones,Electronics,South,28,112,8399.72,3400.00
+2024-02-03,Standing Desk,Furniture,East,6,12,11999.94,4200.00
+2024-02-04,USB Cable,Electronics,West,45,270,2249.55,800.00
+2024-02-05,Laptop,Electronics,North,9,27,26999.91,8100.00
+2024-02-06,Mouse,Electronics,South,20,120,2999.80,1000.00
+2024-02-07,Desk Chair,Furniture,East,7,17.5,6999.65,2100.00
+2024-02-08,Monitor,Electronics,West,18,54,16199.46,4860.00
+2024-02-09,Keyboard,Electronics,North,25,125,2249.75,750.00
+2024-02-10,Office Desk,Furniture,South,8,16,11999.92,4300.00
+2024-02-11,Webcam,Electronics,East,10,30,4499.90,1400.00
+2024-02-12,Headphones,Electronics,West,32,128,9599.68,3900.00
+2024-02-13,Standing Desk,Furniture,North,5,10,9999.95,3500.00
+2024-02-14,USB Cable,Electronics,South,55,330,2749.45,1000.00
